@@ -1,0 +1,12 @@
+{
+  "id": "badge_boost_glitch",
+  "name": "Badge Boost Glitch",
+  "version": "1.0.3",
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "content",
+  "category": "OTHER",
+  "affects_link": false,
+  "permissions": ["engine_internals"],
+  "description": "Reproduces the badge boost glitch."
+}
