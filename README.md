@@ -1,4 +1,4 @@
-# Badge-Boost-Glitch
+# Badge Boost Glitch in Gen1 Recomp
 Recreating the badge boost glitch in the gen 1 recomp. A must have mechanic, in my opinion.
 
 TLDR: Just download the zip and drop it in.
