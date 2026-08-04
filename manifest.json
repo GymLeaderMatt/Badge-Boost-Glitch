@@ -5,7 +5,7 @@
   "entry": "main.lua",
   "api": 2,
   "profile": "content",
-  "category": "OTHER",
+  "category": "Gym Leader Matt",
   "affects_link": false,
   "permissions": ["engine_internals"],
   "description": "Reproduces the badge boost glitch."
