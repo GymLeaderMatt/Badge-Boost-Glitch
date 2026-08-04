@@ -1,3 +1,8 @@
+# Disclaimer:
+- All of my mods were designed with a PC, 1080p, and the voxel rendering mod in mind. If you are using something different, things might get wonky.
+- Keep in mind I made these mods just for fun. I probably won't be very active fixing bugs unless they affect my gameplay.
+- This probably doesn't matter with this mod but I'm pasting it on all of them.
+
 # Badge Boost Glitch in Gen1 Recomp
 - Recreating the badge boost glitch in the gen 1 recomp. A must have mechanic, in my opinion.
 
